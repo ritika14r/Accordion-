@@ -1,0 +1,52 @@
+.main-div{
+    background-color:black;
+    box-shadow: 3px 3px 3px 3px rgb(19, 14, 14,0.4) ;
+    padding: 20px;
+    width:50%;
+    margin-top: 30px;
+    margin-left: 300px;
+    
+}
+.main-div:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .main-div{
+      border: 3px;
+      border-style: groove;
+      border-radius: 10px;
+      
+  }
+  h1{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      margin-left: 250px;
+      margin-right: 275px;
+      border: 2px;
+      background-color: whitesmoke;
+      border-style: groove;
+      padding-left: 20px;
+      border-radius: 5px;
+      
+  }
+  .main-heading{
+      display: flex;
+      margin:10px;
+      color: white;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .sign{
+      cursor: pointer;
+      border-style: ridge;
+      border-radius: 50px;
+      
+      margin-right: 5px;
+  }
+  .answer{
+      margin-left: 50px;
+      margin-right: 70px;
+      
+      box-shadow: 3px 3px 3px 3px rgb(19, 14, 14,0.4) ;
+      color: white;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+    
